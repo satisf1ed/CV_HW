@@ -1,5 +1,7 @@
 # CV_HW
 
+Логи и профилировку можно скачать по ссылке: https://disk.360.yandex.ru/d/jSpaf40wI6HFeA
+
 ## Запуск
 
 1. Скачайте .ipynb файл и откройте его в Google colab. (или откройте этот же файл напрямую по ссылке: https://colab.research.google.com/drive/19tyHf7UsphEVO_IAjE76QlkEBtm0tN8m?usp=sharing)
