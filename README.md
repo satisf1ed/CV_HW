@@ -1,6 +1,6 @@
 # CV_HW
 
-Логи и профилировку можно скачать по ссылке: https://disk.360.yandex.ru/d/jSpaf40wI6HFeA
+Логи, профилировку и confusion matrix можно скачать по ссылке: https://disk.360.yandex.ru/d/jSpaf40wI6HFeA
 
 ## Запуск
 
